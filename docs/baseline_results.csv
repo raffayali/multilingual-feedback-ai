@@ -1,0 +1,5 @@
+experiment,accuracy,macro_f1,seconds
+"word, raw text",0.64,0.632,2
+"word, normalized",0.641,0.633,5
+"char, raw text",0.66,0.653,10
+"char, normalized",0.658,0.652,12
