@@ -1,0 +1,9 @@
+experiment,train_rows,accuracy,macro_f1,minutes
+zero-shot: EN+IT only,3678,0.463,0.459,1.1
+Roman Urdu only (full),15700,0.667,0.659,5.7
+"RU only, 100 examples",100,0.363,0.263,0.2
+EN+IT + 100 RU examples,3778,0.51,0.494,2.6
+"RU only, 500 examples",500,0.496,0.386,0.3
+EN+IT + 500 RU examples,4178,0.55,0.54,1.6
+"RU only, 2000 examples",2000,0.525,0.479,0.8
+EN+IT + 2000 RU examples,5678,0.59,0.577,1.8
