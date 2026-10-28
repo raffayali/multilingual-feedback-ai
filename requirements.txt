@@ -6,3 +6,4 @@ seaborn
 datasets
 jupyter
 pytest
+joblib

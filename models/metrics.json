@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.665,
+  "macro_f1": 0.651,
+  "train_rows": 15700,
+  "test_rows": 3926,
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ]
+}
