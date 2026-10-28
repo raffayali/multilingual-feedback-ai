@@ -1,0 +1,34 @@
+condition,ru_n,seed,accuracy,macro_f1
+zero-shot EN+IT,0,42,0.375,0.345
+RU only,15700,42,0.66,0.653
+RU only,100,42,0.433,0.421
+EN+IT + RU,100,42,0.423,0.414
+EN+IT shuffled labels + RU,100,42,0.375,0.36
+RU only,500,42,0.536,0.517
+EN+IT + RU,500,42,0.506,0.491
+EN+IT shuffled labels + RU,500,42,0.478,0.465
+RU only,2000,42,0.586,0.574
+EN+IT + RU,2000,42,0.571,0.561
+EN+IT shuffled labels + RU,2000,42,0.562,0.553
+zero-shot EN+IT,0,43,0.375,0.345
+RU only,15700,43,0.66,0.653
+RU only,100,43,0.479,0.456
+EN+IT + RU,100,43,0.426,0.413
+EN+IT shuffled labels + RU,100,43,0.403,0.39
+RU only,500,43,0.509,0.486
+EN+IT + RU,500,43,0.485,0.47
+EN+IT shuffled labels + RU,500,43,0.472,0.454
+RU only,2000,43,0.593,0.579
+EN+IT + RU,2000,43,0.574,0.563
+EN+IT shuffled labels + RU,2000,43,0.564,0.551
+zero-shot EN+IT,0,44,0.375,0.345
+RU only,15700,44,0.66,0.653
+RU only,100,44,0.473,0.449
+EN+IT + RU,100,44,0.428,0.402
+EN+IT shuffled labels + RU,100,44,0.384,0.362
+RU only,500,44,0.533,0.513
+EN+IT + RU,500,44,0.496,0.479
+EN+IT shuffled labels + RU,500,44,0.476,0.46
+RU only,2000,44,0.583,0.571
+EN+IT + RU,2000,44,0.563,0.554
+EN+IT shuffled labels + RU,2000,44,0.56,0.55
